@@ -1,4 +1,4 @@
-CPU,Brand,Release_Year,Cores,Threads,Boost_GHz,TDP_W,X3D,MultiCore_Score
+mS#CPU,D#Brand,C#Release_Year,C#Cores,C#Threads,C#Boost_GHz,C#TDP_W,D#X3D,cC#MultiCore_Score
 Ryzen 9 9950X3D,AMD,2025,16,32,5.7,170,1,100.0
 Ryzen 9 9950X,AMD,2024,16,32,5.7,170,0,96.8
 Core Ultra 7 270K Plus,Intel,2026,24,24,5.5,125,0,95.6
